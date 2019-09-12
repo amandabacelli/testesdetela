@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src="file://target\ss\03_09_2019\21_42_41\CT1_CadastroPHPTravel\214300160_Tela Cadastro.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\AMANDA~1\AppData\Local\Temp\screenshot1393086903825450530.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://target\ss\03_09_2019\21_42_41\CT1_CadastroPHPTravel\214302223_Dados Preenchidos.png" alt=""/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src="file://C:\Users\AMANDA~1\AppData\Local\Temp\screenshot7584017412919539921.png" alt=""/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24019" started-at="2019-09-04T00:42:41Z" finished-at="2019-09-04T00:43:05Z">
+    <groups>
+      <group name="grupos">
+        <method signature="TestCadastro.CT1_CadastroPHPTravel()[pri:1, instance:com.br.inmetrics.tests.php.TestCadastro@4c15e7fd]" name="CT1_CadastroPHPTravel" class="com.br.inmetrics.tests.php.TestCadastro"/>
+      </group> <!-- grupos -->
+    </groups>
+    <test name="Default test" duration-ms="24019" started-at="2019-09-04T00:42:41Z" finished-at="2019-09-04T00:43:05Z">
+      <class name="com.br.inmetrics.tests.php.TestCadastro">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.br.inmetrics.tests.php.TestCadastro@4c15e7fd]" name="setup" is-config="true" duration-ms="12541" started-at="2019-09-04T00:42:41Z" finished-at="2019-09-04T00:42:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.php.TestCadastro.CT1_CadastroPHPTravel()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@624a24f6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CT1_CadastroPHPTravel()[pri:1, instance:com.br.inmetrics.tests.php.TestCadastro@4c15e7fd]" name="CT1_CadastroPHPTravel" duration-ms="10170" started-at="2019-09-04T00:42:54Z" finished-at="2019-09-04T00:43:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src="file://target\ss\03_09_2019\21_42_41\CT1_CadastroPHPTravel\214300160_Tela Cadastro.png" alt=""/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\AMANDA~1\AppData\Local\Temp\screenshot1393086903825450530.png" alt=""/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://target\ss\03_09_2019\21_42_41\CT1_CadastroPHPTravel\214302223_Dados Preenchidos.png" alt=""/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src="file://C:\Users\AMANDA~1\AppData\Local\Temp\screenshot7584017412919539921.png" alt=""/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CT1_CadastroPHPTravel -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.br.inmetrics.tests.php.TestCadastro@4c15e7fd]" name="teardown" is-config="true" duration-ms="1099" started-at="2019-09-04T00:43:04Z" finished-at="2019-09-04T00:43:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.br.inmetrics.tests.php.TestCadastro.CT1_CadastroPHPTravel()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@624a24f6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=CT1_CadastroPHPTravel status=SUCCESS method=TestCadastro.CT1_CadastroPHPTravel()[pri:1, instance:com.br.inmetrics.tests.php.TestCadastro@4c15e7fd] output=<img src="file://target\ss\03_09_2019\21_42_41\CT1_CadastroPHPTravel\214300160_Tela Cadastro.png" alt=""/>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.br.inmetrics.tests.php.TestCadastro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
